@@ -5,4 +5,4 @@ Awesome Exploratory Data Analysis (EDA)
 | -- | -- | -- |
 | [xda](https://github.com/ujjwalkarn/xda) | R | |
 | [ExPanDR](https://github.com/joachim-gassen/ExPanDaR) | R | https://joachim-gassen.github.io/2019/12/explore-your-data-with-expand/ |
-| https://github.com/hurshd0/awesome_eda | Python | another awesome eda list | 
+| [awesome_eda](https://github.com/hurshd0/awesome_eda) | Python |  | 
