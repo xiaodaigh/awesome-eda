@@ -11,3 +11,7 @@ Awesome Exploratory Data Analysis (EDA)
 | [pointblank](https://github.com/rich-iannone/pointblank) | R | "Validation of local and remote data tables" |
 | [visdat](https://github.com/ropensci/visdat) | R | |
 | [validate](https://github.com/data-cleaning/validate) | R | "Professional data validation for the R environment" |
+
+## Other Lists
+
+https://github.com/mstaniak/autoEDA-resources
