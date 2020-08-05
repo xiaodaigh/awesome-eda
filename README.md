@@ -14,6 +14,7 @@ Awesome Exploratory Data Analysis (EDA)
 | [modelsummary](https://vincentarelbundock.github.io/modelsummary/articles/datasummary.html) | R | has a `datasummary` function |
 | [dataMaind](https://sandsynligvis.dk/2018/03/03/generating-codebooks-in-r/) | R | can generate notebooks in R |
 | [vtree](https://github.com/nbarrowman/vtree) | R | For when you have a nested subset of varaibles |
+| [summarytools](https://cran.r-project.org/web/packages/summarytools/vignettes/Introduction.html) | R |  |
 
 ## Resource
 
