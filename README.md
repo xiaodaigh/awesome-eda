@@ -12,6 +12,12 @@ Awesome Exploratory Data Analysis (EDA)
 | [visdat](https://github.com/ropensci/visdat) | R | |
 | [validate](https://github.com/data-cleaning/validate) | R | "Professional data validation for the R environment" |
 
+## Resource
+
+| Name | Notes |
+| -- | -- |
+| [The Landscape of R Packages for Automated Exploratory Data Analysis ](https://journal.r-project.org/archive/2019/RJ-2019-033/index.html) | |
+
 ## Other Lists
 
 https://github.com/mstaniak/autoEDA-resources
