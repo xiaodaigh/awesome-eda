@@ -13,6 +13,7 @@ Awesome Exploratory Data Analysis (EDA)
 | [validate](https://github.com/data-cleaning/validate) | R | "Professional data validation for the R environment" |
 | [modelsummary](https://vincentarelbundock.github.io/modelsummary/articles/datasummary.html) | R | has a `datasummary` function |
 | [dataMaind](https://sandsynligvis.dk/2018/03/03/generating-codebooks-in-r/) | R | can generate notebooks in R |
+| [vtree](https://github.com/nbarrowman/vtree) | R | For when you have a nested subset of varaibles |
 
 ## Resource
 
