@@ -17,6 +17,7 @@ Awesome Exploratory Data Analysis (EDA)
 | [summarytools](https://cran.r-project.org/web/packages/summarytools/vignettes/Introduction.html) | R |  |
 | [sparkedatools](https://github.com/GabeChurch/sparkedatools) | R/Spark | |
 | [dash-pivotable](https://github.com/plotly/dash-pivottable) | Python | Dash based web pivottable |
+| [elucidate](https://github.com/bcgov/elucidate) | R | |
 
 ## Resource
 
