@@ -20,6 +20,7 @@ Awesome Exploratory Data Analysis (EDA)
 | [elucidate](https://github.com/bcgov/elucidate) | R | |
 | [corrmorant](https://github.com/r-link/corrmorant) | R | "Flexible Correlation Matrices Based on ggplot2" |
 | [klib](https://towardsdatascience.com/speed-up-your-data-cleaning-and-preprocessing-with-klib-97191d320f80) | Python |  |
+| [sweetviz](https://towardsdatascience.com/sweetviz-automated-eda-in-python-a97e4cabacde) | Python | |
 
 ## Resource
 
