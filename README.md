@@ -22,6 +22,7 @@ Awesome Exploratory Data Analysis (EDA)
 | [klib](https://towardsdatascience.com/speed-up-your-data-cleaning-and-preprocessing-with-klib-97191d320f80) | Python |  |
 | [sweetviz](https://towardsdatascience.com/sweetviz-automated-eda-in-python-a97e4cabacde) | Python | |
 | [dataprep.ai](https://dataprep.ai/) | Python | claims to be a new way of thinking about it |
+| [Visidata](https://www.visidata.org/) | CLI | 
 
 ## Resource
 
