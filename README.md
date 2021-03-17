@@ -30,6 +30,8 @@ Awesome Exploratory Data Analysis (EDA)
 | -- | -- |
 | [The Landscape of R Packages for Automated Exploratory Data Analysis ](https://journal.r-project.org/archive/2019/RJ-2019-033/index.html) | |
 
+* Check it out and add to the list above https://alastairrushworth.github.io/exploring_eda/EDA.html#1
+
 ## Other Lists
 
 https://github.com/mstaniak/autoEDA-resources
