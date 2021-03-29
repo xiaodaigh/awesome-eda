@@ -23,6 +23,7 @@ Awesome Exploratory Data Analysis (EDA)
 | [sweetviz](https://towardsdatascience.com/sweetviz-automated-eda-in-python-a97e4cabacde) | Python | |
 | [dataprep.ai](https://dataprep.ai/) | Python | claims to be a new way of thinking about it |
 | [Visidata](https://www.visidata.org/) | CLI | 
+| [lux](https://github.com/lux-org/lux) | Python | "intelligent Visual Data Discovery" |
 
 ## Resource
 
