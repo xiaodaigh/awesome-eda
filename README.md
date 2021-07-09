@@ -24,6 +24,7 @@ Awesome Exploratory Data Analysis (EDA)
 | [dataprep.ai](https://dataprep.ai/) | Python | claims to be a new way of thinking about it |
 | [Visidata](https://www.visidata.org/) | CLI | 
 | [lux](https://github.com/lux-org/lux) | Python | "intelligent Visual Data Discovery" |
+| [correlationfunnel](https://github.com/business-science/correlationfunnel) | R | Has an [interesting take on customer churn EDA](https://cran.r-project.org/web/packages/correlationfunnel/vignettes/introducing_correlation_funnel.html) using the package |
 
 ## Resource
 
