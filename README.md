@@ -25,7 +25,8 @@ Awesome Exploratory Data Analysis (EDA)
 | [Visidata](https://www.visidata.org/) | CLI | 
 | [lux](https://github.com/lux-org/lux) | Python | "intelligent Visual Data Discovery" |
 | [correlationfunnel](https://github.com/business-science/correlationfunnel) | R | Has an [interesting take on customer churn EDA](https://cran.r-project.org/web/packages/correlationfunnel/vignettes/introducing_correlation_funnel.html) using the package |
-| https://github.com/pandas-profiling/pandas-profiling | Python | recommended by colleague |
+| [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) | Python | Decent basic profiling; recommended by colleague |
+| [inspectdf](https://github.com/alastairrushworth/inspectdf）| R | |
 
 ## Resource
 
